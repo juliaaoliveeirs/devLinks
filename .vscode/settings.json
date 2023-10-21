@@ -1,0 +1,16 @@
+// {
+//   // editor
+//   "editor.wordWrap": "on",
+//   "editor.lineHeight": 2,
+//   "editor.tabSize": 2,
+//   "editor.bracketPairColorization.enabled": true,
+//   "editor.guides.bracketPairs": true,
+//   "editor.minimap.enabled": false,
+//   "editor.formatOnPaste": true,
+
+//   // explorer
+//   "explorer.compactFolders": false,
+
+//   // workbench
+//   "workbench.editor.enablePreview": false
+// }
